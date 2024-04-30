@@ -1,0 +1,33 @@
+1. Header:
+1.1 titulo
+1.2 log in - sign up
+1.3 busqueda
+1.4 fecha
+1.5 categorias
+1.5.1 pais
+1.5.2 internacional
+1.5.n etc
+
+
+2 noticias
+2.1 categoria
+2.2 titulo noticia
+2.3 descripcion corta
+2.4 imagen - fuente
+2.4.1 url de imagen
+2.4.2 fuente de imagen
+2.5 contenido
+
+3. pagina inicio
+3.1 seccion_1
+3.2 seccion_2
+3.3 seccion lateral
+3.4 seccion de opinion
+3.5 seccion de ver y leer
+3.5.1 encabezado
+3.5.2 imagen
+3.6 seccion de bienestar
+
+4 footer
+4.1 categorias
+4.1.1 subcategorias
